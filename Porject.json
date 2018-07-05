@@ -1,0 +1,14 @@
+{
+	"HeartMaze":{
+		"name":"心形迷宫",
+		"desc":"心形迷宫,自带寻路",
+	},
+	"Plist":{
+		"name":"CocosCreator Plist生成器",
+		"desc":"生成已发布CocosCreator工程对应的Plist文件",
+	},
+	"XXExcel":{
+		"name":"Excel解析工具",
+		"desc":"将Excel解析成lua文件",
+	}
+}

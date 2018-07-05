@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>3</integer>
+			<key>realTextureFileName</key>
+			<string>card.png</string>
+			<key>size</key>
+			<string>{507,1504}</string>
+			<key>smartupdate</key>
+			<string>$TexturePacker:SmartUpdate:f8405780d97c640e8ea87077bcdcd91f:94f4da1f81f94500509fefe236ae699d:9f125aa71c5c2418d32e9eacc87866c8$</string>
+			<key>textureFileName</key>
+			<string>card.png</string>
+		</dict>
+	</dict>
+</plist>

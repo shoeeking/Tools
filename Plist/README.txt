@@ -1,0 +1,4 @@
+这是一个生成plist文件的工具
+解析已经提交到微信的工程中的json，生成plist
+1.运行resource.py生成resource.lua文件
+2.运行main.lua生成会在plist目录下生成plist文件
